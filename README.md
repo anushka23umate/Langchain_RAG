@@ -68,7 +68,7 @@ This repository documents my journey with [LangChain](https://python.langchain.c
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/langchain-learning.git
+git clone https://github.com/anushka23umate/Langchain_RAG.git
 cd langchain-learning
 ```
 
@@ -118,4 +118,4 @@ MIT
 ---
 
 **Author:** Your Name  
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+**LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/anushka-umate)
