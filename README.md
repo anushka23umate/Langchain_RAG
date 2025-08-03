@@ -116,6 +116,6 @@ streamlit run DBstreamlit.py
 MIT
 
 ---
+**Author:** Anushka Umate  
+**LinkedIn:** [anushka-umate](https://www.linkedin.com/in/anushka-umate)
 
-**Author:** Your Name  
-**LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/anushka-umate)
