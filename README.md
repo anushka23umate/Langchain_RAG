@@ -110,12 +110,6 @@ streamlit run DBstreamlit.py
 - Embeddings are cached locally for faster access when using ChromaDB.
 
 ---
-
-## 📜 License
-
-MIT
-
----
 **Author:** Anushka Umate  
 **LinkedIn:** [anushka-umate](https://www.linkedin.com/in/anushka-umate)
 
